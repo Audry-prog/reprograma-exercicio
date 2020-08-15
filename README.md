@@ -4,7 +4,7 @@
 
 __________
 
-![Imagem vetor de HTML e CSS ](.\imagens\html_css.jpg)
+![Imagem vetor de HTML e CSS ](https://github.com/Audry-prog/reprograma-exercicio/blob/master/html_css.jpg)
 
 ##### _Escrito por Audry  Ibragimova._
 ##### _Postado em 15 de agosto de 2020._
@@ -29,6 +29,8 @@ As principais partes de um elemento são:
 - Atributos (são comandos específicos que damos a uma tag para que ela se comporte de uma determinada maneira).
 
 A estrutura básica de todo documento HTML é:
+
+![imagem da estrutura de um elemento HTML](https://github.com/Audry-prog/reprograma-exercicio/blob/master/estrutura-de-um-elemento-html.jpg)
 
 - ``**<!DOCTYPE html>**`` - Declara ao navegador que a linguagem usada é  HTML;
 - ``**<html><html>**`` - O elemento ``<html>`` envolve todo o conteúdo da página HTML;
@@ -66,4 +68,3 @@ Atualmente, você encontrará o CSS na maioria dos sites, já que é um requisit
 ##### _3. MDN WEB DOCS MOZILLA. Css Básico. <https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico> Acesso em: 15 de ago 2020._
 
 ##### _4. TREINAWEB. O que é e como começar com HTML e CSS?  <https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/> Acesso em: 15 de ago de 2020._
-=======
