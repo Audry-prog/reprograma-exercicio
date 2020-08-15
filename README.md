@@ -46,3 +46,5 @@ Vamos simular um exemplo. Digamos que o objetivo é mudar a fonte de uma tag h1.
 O CSS foi criado para ser trabalhado em conjunto com o HTML. Devido ao conceito que utiliza (a separação entre apresentação e conteúdo), a tecnologia CSS tem um padrão muito amplo, com especificações, benefícios e possibilidades muito grandes.
 
 Atualmente, você encontrará o CSS na maioria dos sites, já que é um requisito tão importante como a própria linguagem de marcação. Portanto, não deixe de implantá-lo!
+
+![Imagem HTML e CSS](https://github.com/Audry-prog/reprograma-exercicio/blob/master/html_css.png
