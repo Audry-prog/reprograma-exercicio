@@ -30,8 +30,6 @@ As principais partes de um elemento são:
 
 A estrutura básica de todo documento HTML é:
 
-![imagem da estrutura de um elemento HTML](https://github.com/Audry-prog/reprograma-exercicio/blob/master/estrutura-de-um-elemento-html.jpg)
-
 - ``**<!DOCTYPE html>**`` - Declara ao navegador que a linguagem usada é  HTML;
 - ``**<html><html>**`` - O elemento ``<html>`` envolve todo o conteúdo da página HTML;
 - ``**<head><head>**`` - O elemento ``<head>`` é o local onde se incluem todos os elementos não renderizáveis da página;
