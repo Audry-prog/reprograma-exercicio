@@ -6,7 +6,8 @@ __________
 
 ![Imagem vetor de HTML e CSS ](.\imagens\html_css.jpg)
 
-###### _Escrito por Audry  Ibragimova._
+##### _Escrito por Audry  Ibragimova._
+##### _Postado em 15 de agosto de 2020._
 ____________
 #### 1. HTML
 
