@@ -21,7 +21,7 @@ Mas como ocorre a transformação do conteúdo de um documento em estruturas HTM
 
 As principais partes de um elemento são:
 
-![imagem da estrutura de um elemento html](.\imagens\estrutura-de-um-elemento-html.jpg)
+![imagem da estrutura de um elemento html](https://github.com/Audry-prog/reprograma-exercicio/blob/master/estrutura-de-um-elemento-html.jpg)
 
 - Tag de Abertura ``<p>`` (marca o início de um elemento);
 - Tag de Fechamento ``</p>`` (marca o fim de um elemento);
