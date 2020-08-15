@@ -6,6 +6,8 @@ __________
 
 ![Imagem vetor de HTML e CSS ](.\imagens\html_css.jpg)
 
+###### _Escrito por Audry  Ibragimova._
+____________
 #### 1. HTML
 
 O acrônimo HTML, do inglês _Hypertext Markup Language_ (Linguagem de Marcação de Hipertexto), serve para dar significado e organização ao conteúdo da interface de um site, ou seja, é uma ferramenta usada para definir a estrutura do documento. Consiste de uma série de elementos que delimitam e agrupam diferentes partes do conteúdo, para que o mesmo apareça ou atue de uma determinada maneira na interface de comunicação com o usuário.
@@ -14,7 +16,7 @@ Ao contrário do que costuma pensar, o HTML não é uma linguagem de programaç�
 
 Mas você deve estar se perguntando: o que é um hipertexto? Um hipertexto faz referência a um texto com blocos interconectados contendo palavras, imagens, cabeçalhos, tabelas e outros elementos, que podem ou não apontar para outros hipertextos, caminhos esses conhecidos como hiperligações, _hiperlinks_ ou apenas _links_ .
 
-Mas como ocorre a transformação do conteúdo de um documento em estruturas HTML na interface de um site? Ele marca a informação com _tags_(etiquetas), que definem se o elemento será um parágrafo, um cabeçalho, um link , um trecho de uma citação, um rodapé, uma seção de um conteúdo, e assim por diante.
+Mas como ocorre a transformação do conteúdo de um documento em estruturas HTML na interface de um site? Ele marca a informação com tags (etiquetas), que definem se o elemento será um parágrafo, um cabeçalho, um link , um trecho de uma citação, um rodapé, uma seção de um conteúdo, e assim por diante.
 
 As principais partes de um elemento são:
 
