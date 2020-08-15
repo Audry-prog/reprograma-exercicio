@@ -58,7 +58,6 @@ Atualmente, você encontrará o CSS na maioria dos sites, já que é um requisit
 <br>
 
 #### _Referências:_
-<br>
 
 ##### _1. HOSTINGER TUTORIAIS. O que é HTML? Guia Básico para Iniciantes. <https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/> Acesso em: 15 de ago de 2020._
 
@@ -67,3 +66,4 @@ Atualmente, você encontrará o CSS na maioria dos sites, já que é um requisit
 ##### _3. MDN WEB DOCS MOZILLA. Css Básico. <https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico> Acesso em: 15 de ago 2020._
 
 ##### _4. TREINAWEB. O que é e como começar com HTML e CSS?  <https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/> Acesso em: 15 de ago de 2020._
+=======
